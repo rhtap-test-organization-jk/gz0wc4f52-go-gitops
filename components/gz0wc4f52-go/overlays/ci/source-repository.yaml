@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gz0wc4f52-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/gz0wc4f52-go
